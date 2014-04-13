@@ -1,0 +1,7 @@
+parameters:
+#    application_my_vedhika.example.class: Application\MyVedhikaBundle\Example
+
+services:
+#    application_my_vedhika.example:
+#        class: %application_my_vedhika.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

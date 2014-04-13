@@ -1,0 +1,3 @@
+application_my_vedhika_registrationpage:
+    pattern:  /registration
+    defaults: { _controller: ApplicationMyVedhikaBundle:Registration:registration }

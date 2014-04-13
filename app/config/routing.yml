@@ -1,0 +1,4 @@
+application_my_vedhika:
+    resource: "@ApplicationMyVedhikaBundle/Resources/config/routing.yml"
+    prefix:   /
+
